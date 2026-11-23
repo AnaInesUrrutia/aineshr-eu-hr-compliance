@@ -1,0 +1,11 @@
+{
+  "name": "aineshr-eu-hr-compliance",
+  "version": "1.0.0",
+  "description": "EU HR and payroll compliance skills from AInesHR: AI Act for HR, multi-country payroll onboarding, pay transparency, and works council consultation.",
+  "author": {
+    "name": "Ana Inés Urrutia",
+    "url": "https://aineshr.com"
+  },
+  "homepage": "https://aineshr.com",
+  "keywords": ["hr", "payroll", "compliance", "eu-ai-act", "pay-transparency", "works-council", "europe"]
+}

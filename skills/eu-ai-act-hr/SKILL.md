@@ -1,6 +1,6 @@
 ---
 name: eu-ai-act-hr
-description: Assess whether an AI tool used in HR (recruiting, screening, performance, promotion, termination, monitoring) falls under the EU AI Act, classify its risk, and list employer obligations. Use when someone asks about AI Act compliance for HR systems or vendors.
+description: "Assess whether an AI tool used in HR (recruiting, screening, performance, promotion, termination, monitoring) falls under the EU AI Act, classify its risk, and list employer obligations. Use when someone asks about AI Act compliance for HR systems or vendors."
 ---
 
 # EU AI Act for HR

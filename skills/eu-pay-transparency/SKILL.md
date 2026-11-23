@@ -1,6 +1,6 @@
 ---
 name: eu-pay-transparency
-description: Explain and plan compliance with the EU Pay Transparency Directive (2023/970) for employers: job ad pay information, salary history ban, employee right to information, gender pay gap reporting, and joint pay assessments.
+description: "Explain and plan compliance with the EU Pay Transparency Directive (2023/970) for employers: job ad pay information, salary history ban, employee right to information, gender pay gap reporting, and joint pay assessments."
 ---
 
 # EU Pay Transparency Directive readiness

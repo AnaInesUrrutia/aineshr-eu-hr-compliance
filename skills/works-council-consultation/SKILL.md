@@ -1,6 +1,6 @@
 ---
 name: works-council-consultation
-description: Plan employee representative and works council consultation when introducing HR technology, AI, monitoring, or payroll changes in European countries. Use when rolling out HR systems across several countries.
+description: "Plan employee representative and works council consultation when introducing HR technology, AI, monitoring, or payroll changes in European countries. Use when rolling out HR systems across several countries."
 ---
 
 # Works council and employee consultation for HR tech rollouts

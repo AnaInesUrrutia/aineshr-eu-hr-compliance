@@ -1,11 +1,11 @@
 ---
-name: multi-country-payroll-onboarding
-description: "Build a checklist and plan to onboard a new European country into a payroll setup (in-house, provider, or global payroll platform). Use when someone plans to hire in, expand to, or harmonise payroll across EU or EEA countries or Switzerland."
+name: multi-country-onboarding
+description: "Build a checklist and plan to onboard a new European country into an HR and employee administration setup (in-house, provider, or global platform). Use when someone plans to hire in, expand to, or harmonise HR operations across EU or EEA countries or Switzerland."
 ---
 
-# Multi-country payroll onboarding
+# Multi-country onboarding
 
-Create a practical onboarding plan for adding a country to a payroll landscape. Always tell the user that statutory details differ by country and change often, so local rules must be verified with a local payroll provider or advisor. Search the web for current rates and deadlines before quoting any number.
+Create a practical onboarding plan for adding a country to an HR operations landscape, including employment, pay processing and reporting. Always tell the user that statutory details differ by country and change often, so local rules must be verified with a local payroll provider or advisor. Search the web for current rates and deadlines before quoting any number.
 
 ## Gather first
 
